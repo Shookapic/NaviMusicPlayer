@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NaviMusicPlayer", "MyApp\NaviMusicPlayer.csproj", "{9AE59D9A-BB02-4554-B458-37D8676A7C01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AE59D9A-BB02-4554-B458-37D8676A7C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE59D9A-BB02-4554-B458-37D8676A7C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE59D9A-BB02-4554-B458-37D8676A7C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE59D9A-BB02-4554-B458-37D8676A7C01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6113B881-8D38-440D-BB16-BA1C12813A67}
+	EndGlobalSection
+EndGlobal

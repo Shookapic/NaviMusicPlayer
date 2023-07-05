@@ -1,0 +1,5 @@
+C:\Users\shookx\Documents\basic_app\MyApp\MyApp\bin\Release\net7.0-windows\app.publish\NaviMusicPlayer.exe
+C:\Users\shookx\Documents\basic_app\MyApp\MyApp\bin\Release\net7.0-windows\app.publish\NaviMusicPlayer.dll
+C:\Users\shookx\Documents\basic_app\MyApp\MyApp\bin\Release\net7.0-windows\app.publish\NaviMusicPlayer.deps.json
+C:\Users\shookx\Documents\basic_app\MyApp\MyApp\bin\Release\net7.0-windows\app.publish\NaviMusicPlayer.runtimeconfig.json
+C:\Users\shookx\Documents\basic_app\MyApp\MyApp\bin\Release\net7.0-windows\app.publish\NaviMusicPlayer.pdb
